@@ -1,0 +1,13 @@
+body{
+    background-image: url("../images/minecraft.jpg");
+    background-size: cover;
+    background-color: darkgray;
+
+}
+#main-container,#button-gird .button,#about_me_container,#academic_container,#skills_container,#projects_container{
+    display: none;
+}
+.ui.container.segment:first-of-type{
+    margin-top:5em;
+
+}
